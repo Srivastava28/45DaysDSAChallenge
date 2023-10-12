@@ -7,6 +7,7 @@ public:
         //     mp[nums[i]]++;
         // }
         // int i=0;
+        //Jab map ho jyega, tb it.first key btayega
         // for(auto it:mp)
         // {
         //     nums[i]=it.first;
